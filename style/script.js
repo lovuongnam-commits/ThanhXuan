@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Nghĩa', nickname: 'Nghĩa', quote: 'Đơn giản là tốt.', img: 'style/img/ThanhVien/gnhia.jpg', hobbies: 'Nghe nhạc', message: 'Bình an.' },
         { name: 'Hằng Nga', nickname: 'Nga', quote: 'Tỏa sáng nhé.', img: 'style/img/ThanhVien/hangnga.jpg', hobbies: 'Ca hát', message: 'Shine bright!' },
         { name: 'Hiền', nickname: 'Hiền', quote: 'Sống tích cực.', img: 'style/img/ThanhVien/hien.jpg', hobbies: 'Đọc sách', message: 'Stay positive.' },
-        { name: 'Khôi Nguyên', nickname: 'Nguyên', quote: 'Không ngừng học hỏi.', img: 'style/img/ThanhVien/khoinguyen.jpg', hobbies: 'Học tập', message: 'Keep learning.' },
+        { name: 'Khôi Nguyên', nickname: 'Nguyên', quote: 'Không ngừng học hỏi.', img: 'style/img/ThanhVien/Khoinguyen.jpg', hobbies: 'Học tập', message: 'Keep learning.' },
         { name: 'Lê Bảo', nickname: 'Bảo', quote: 'Luôn tiến lên.', img: 'style/img/ThanhVien/lebao.jpg', hobbies: 'Game', message: 'Never stop.' },
         { name: 'Lương', nickname: 'Lương', quote: 'Bình tĩnh và tự tin.', img: 'style/img/ThanhVien/luong.jpg', hobbies: 'Thể thao', message: 'You can do it.' },
 
